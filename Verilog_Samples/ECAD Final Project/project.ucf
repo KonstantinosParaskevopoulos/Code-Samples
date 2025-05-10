@@ -1,0 +1,16 @@
+net clk100 loc=t9;
+net reset loc=k4;
+net ps2clk loc=b16;
+net ps2data loc=e13;
+net rgb<8> loc=d5;
+net rgb<7> loc=e7;
+net rgb<6> loc=c9;
+net rgb<5> loc=c3;
+net rgb<4> loc=a5;
+net rgb<3> loc=a8;
+net rgb<2> loc=b1;
+net rgb<1> loc=d6;
+net rgb<0> loc=c8;
+net hsync  loc=b7;
+net vsync  loc=d8;
+net pwm_out loc=m3;
